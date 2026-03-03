@@ -31,6 +31,7 @@ Navigate into the directory:
 
 cd Artificial-Neuron---2D-Classification
 
+
 Install dependencies:
 
 pip install -r requirements.txt
